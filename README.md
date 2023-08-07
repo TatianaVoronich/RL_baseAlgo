@@ -1,5 +1,5 @@
 # RL_baseAlgo
-MonteCarlo_Sarsa_QLearning
+MonteCarlo_SARSA_QLearning
 ## Сравнение методов.
 Методы SARSA и Q-learning являются более эффективными и удобными по сравнению с методом Монте-Карло в контексте обучения с подкреплением по следующим причинам:
 
